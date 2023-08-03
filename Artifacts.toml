@@ -1,1226 +1,1226 @@
 [[algoimWrapper]]
 arch = "aarch64"
-git-tree-sha1 = "114eb9980fceef63bb5b3881e5e08c60c8d510c5"
+git-tree-sha1 = "19620645d89e59641f8902b78eb0636aa6628bca"
 julia_version = "1.10.0"
 os = "macos"
 
     [[algoimWrapper.download]]
-    sha256 = "dd9796852a20890fa279a6085b3e162e125580617bc22ac5401f5e776870da35"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "617807b702db43491ec73eb068e11e763270a4bfbc67d12e980ca9be1cd3806a"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
-git-tree-sha1 = "9ec0bb0a113bbda9c89484ef0c40cbcfb7b699f5"
+git-tree-sha1 = "da11dab82b1bd24ec94aa4964ac3f91d4e29bcd9"
 julia_version = "1.7.0"
 os = "macos"
 
     [[algoimWrapper.download]]
-    sha256 = "0ae6aa0bb528b10cc39f606f20ab10ce9f917a8a9b8bf58d45163439495a5893"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "b9552517a5c99dab39ee31bee45dddb738cf8a606ac02229bb77d834fe1ac01a"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
-git-tree-sha1 = "7915f38067214cec9a4f59b99f45c4b07d5c9ca0"
+git-tree-sha1 = "d6846093e2d4c1356479f358327facb88955f364"
 julia_version = "1.8.0"
 os = "macos"
 
     [[algoimWrapper.download]]
-    sha256 = "fda4a59d276d8dc461ea7b79f1c0fe35016bd9d152ab8dcb9e8ba460547600ec"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-apple-darwin-julia_version+1.8.0.tar.gz"
+    sha256 = "ed59d533fd1c7cbe0a02f53aa447847e64f4fdfb2a6e0ece33605dd078eb1251"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-apple-darwin-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
-git-tree-sha1 = "27e6bd5f4b9debe0d773dae816f7bf6b819b8cd0"
+git-tree-sha1 = "6884813489dadda40e8f9976a4d0ab8b9f4c29a6"
 julia_version = "1.9.0"
 os = "macos"
 
     [[algoimWrapper.download]]
-    sha256 = "db7029799ac88f7ee6de35a89fc868a957b99a694b18ae96bd24ef9e1deea37f"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "586a6c2608d1c12cb95f3dcc91af67ddbd61d2fa0b6db6f84aa0b2cd4785ebcf"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "c741f4f2370fb9c0279be46670aee539e1675679"
+git-tree-sha1 = "79f51c8d7348f8f9744c671264ecdfd4927e00a7"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "a4bbe7a79d870c8a944d85e130c66545038f9c6468523c6ef9d3bff673341ddc"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "6641e1d77bdc7973728e7e79ce599a9c9c1ad690de9c1de924e8bbcb35e84ba2"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cb1c7974e2d71e004e216ea7415381a28891d1d7"
+git-tree-sha1 = "75cbb89af63b1cb7d8ef8ce278a930a856a536ad"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "bb629d5951a37d0a57c146d6634e09fe4bd1db6c3b692dd190184fb7d325edb5"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "6bff01997a54dedd7f31af51f7df1fbbd5ab1876b74b726c552adf2fcf90de6c"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "44cea7cda4f4daa1b38314ea4d7068d6d5bba8d9"
+git-tree-sha1 = "75800f1e79e76aceeb274f55c0d10fa3d233198a"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "18f215b550ef76f102cff7a6d7dda679ec2f3a8f904dd72ff48cd99cc8b5937f"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "afd7a18373148396a425aabdbbe4cd3595fc2f333315c9ed8c47d8a696aeef3c"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "704740a209cdc3205adf6e1375b617ddac23e320"
+git-tree-sha1 = "7c5055bde3d13feee4b079cfe59cce971b815383"
 julia_version = "1.8.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "b2dcd3fcbd37eb71fd0755a6b20b7d3c0ee68cec558350e7f93c1a2ea6296fea"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    sha256 = "2ff381831053fc2e74cd547624d5aff59aa27a84ce4481d51172183cd47f7b7d"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8fdff3500f5f1e4cb4ea95a145fb9c2030f08023"
+git-tree-sha1 = "8eb51970d2935f8ea0d692f3a9c468601b9755f9"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "25d526db502222db0fd5117804172aad454555d742558c170275b5f4f95d8b07"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "0dbc88a4bf3675279de5581fa4c2a372bc7d0e49ff7e04d883dbfa701a8c1ad4"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4611a81cce4f996e076b403933a306653c930fca"
+git-tree-sha1 = "7727008cff3f21e6373bd14c3e6c3992fb422b91"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "47f20246e85a9c51fef23dc8a05832b1b3c7694282f3c7c2877d015668fd74a8"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "a08b7fe1b302e351626a83259e3682de2a2b1ae13ac01593e3b7de66cfa555a2"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "38fea30ab4905a03eaeee32e5b43041c58a3405d"
+git-tree-sha1 = "27416d036ccadedc4309ba0512520590b7693720"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "18d0695de36401dd73bb145eb6a9e04918218cedf8575442f5a020e5f970cdc3"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "81939a5c38a2e65be9bbcaf95191363045640d3e8fc352928ff45a30a32c9a75"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5d2770d9165d4a8a09fc587c610646e9003790c8"
+git-tree-sha1 = "9d2b29a8746904f40cfc7c16f30b9e46403d5143"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "00eb17a7bced88287babd225453396065de44e9ae9c8ecdfbf6a6a9c46290332"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "0d5fbcc92fff9354664e0643d50391f761abcd3d67c67641cf61214ce0ae8608"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "569a525a153843dc8fca3e8a6a6ff32821542428"
+git-tree-sha1 = "c1cd7dce9359b02e7fb02fb94b9cf3aaf9eb16bc"
 julia_version = "1.8.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "72fa0789944c82ff46398195345151d3808bcd49fd45a1b0d38144a93add5ae5"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    sha256 = "ed06dad7a3eda9ed8cb89b096346827a6c351d0ff3ab3bc96e4e5c86a358535f"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "01338013de2080acc9baf028fb8efc85f156df63"
+git-tree-sha1 = "ab28730c67305e83a8a69255407128e3fcad33c2"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "5c1c0304ed942329e5dc179ee40eefe5b951171160ee44696fb0cbaed8bec971"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "a8a049dd11a4aa0cb9f53f0fcfee1ac026b579a71b2e1277f407f41417cc9b3d"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "531c51865b881571270957ef263dc70849d7fc94"
+git-tree-sha1 = "435696bf260b749d99dcd937807874073d55001c"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "ddb5987b5443c1a4eedd451ee23f18e86dfb3cea6be84574f013ed2d53673b9b"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "ba26ed7331caf370e846cdb96b3eadf516f38746c1acd8f37d45707afed2daf7"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3bb2dbf9b6992d324d06db541f4735c134b6ef53"
+git-tree-sha1 = "590745e0310732b36000236239bb4c9229ca35ba"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "dd25d5383259da3fbfefb4d585f37fbf0ca3d35ba764bed930740d58d2f14bf2"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "0e5a72ee1393081e114409ea502e2d252612bbdaae6081a15429c0a410bd8ac9"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "2a4961135d0c58ff4601e4a337b60d3c29966928"
+git-tree-sha1 = "7a94ce1a3430c22de41e4d77120342bd908a86d5"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "127db29237d4da25f2d56e4ff62a53311c551d52a33d45979806fc4a7ee266ff"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "d7390bed8ead3316c5055a9dcc1a9a38cc38e82a7b6039dac82d11f55c8d61dc"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4fd46f345f2ec6b60f4fc4d8df9d644517201dcf"
+git-tree-sha1 = "260ee94988251fbe79ac4479a8f3ae935d5ca293"
 julia_version = "1.8.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "d10fa7ccbf382aafda9acb6f865c05c05909f2b1ca315e17afb58e916283cbaa"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-musl-cxx03-julia_version+1.8.0.tar.gz"
+    sha256 = "a43fefb1759f83031389a61a98785d3cae9ae235fe4813d3e0f13e8c6a306965"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-musl-cxx03-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0e6f453486bf4facc00578b2d710e5e77e00d8e5"
+git-tree-sha1 = "ef4405eca25aca699a2c14311263003a624d63f6"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "317eadeb9a6e904645fb0c96a9d0bb465039f8670a88ade6612eb62f70d2e933"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "552d6f58de4f7233f950389f541a6df23d9114bd24a223a773c0046254f4e9df"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "46061631eef0acfb93388fbcdbada55b879bc4c0"
+git-tree-sha1 = "2e373c936c3144c5344c72ae3d307cc844d7e12d"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "04b7a9f8d7b6b5edb5c0e08f086a034a91fa2c53f17f140d967fbc63df825a22"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "aaf3540ee104b00e2b1742d65c0f810b07bc7124a6016ce759106e9f84e48114"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9de5d3b41f424bb2da90f01040c7660d6b5ce60c"
+git-tree-sha1 = "9ac293ca3e509be8aa55aa18db563231a35a28d0"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "76d372dc5630ea3c907947df4ecc571d7786098febcb31173a21e9bebbeca881"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "2892eb1306d54b4173dee1f10e4c18567c3c4d69591a9eb50e028e687a64e250"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4239c0854d1b114cf72c76601b8adcd41bf354e8"
+git-tree-sha1 = "84076c4bbe5cb8cd612c29dda838b16339a60e54"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "2fea7d53ffd5ce463d5272f90d745df9bf2925a85680da63edca29de1223d5a6"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "34c5a16afee059e013fac2bf63dfff61bd7850852d25f322d921d9e8cc260424"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9c681af57398632ca1c9da6cc83e442dd4332351"
+git-tree-sha1 = "f73e323a810c0db8990fb25dcba0095bd64b7be1"
 julia_version = "1.8.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "6a4da3aabb92e005df6fbdbbf6cd08d17148466dd6b12ddbfcfdddf522c50e6c"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-musl-cxx11-julia_version+1.8.0.tar.gz"
+    sha256 = "c803c2150f77a9178f806d1a4a50ec47ece2579fbe2985d4a437019c6404d431"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-musl-cxx11-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7d5b1c812416e93c65fde59273d5f4225b2f3950"
+git-tree-sha1 = "63bd040e4973340edfebc4e24ac0428f646257ea"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "2cfa0c87a0084a2a1280b48b0f67124440690460ff28cb89f7583407b7a61f71"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "a60fa48098d371017a30606721f16cc044e124ca672de8d6bdf71a405472e75a"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.aarch64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d01afcbff072fd1616a3cf6ba90684aa7c992a27"
+git-tree-sha1 = "259991f73c0af2be06c52fee295cc678c8196ea2"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "e006cca42cdccf4d75deee70c079615d142116af8b0692667cefe2352cc8b868"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "9335b035b419f8337b06387cb9ca27026c74f09b15ad1719247b00923889e5d8"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv6l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "de3b942f8774765bcd5a67b066fd9889b7778a57"
+git-tree-sha1 = "ef8ddb5e3c87aed1ccae88d4c85521004da4d94e"
 julia_version = "1.8.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "e242237e5f6152f47766eda5384c54eb3e27b495a5808bfeed5d0b6b6e01a001"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
+    sha256 = "f7ce98999a1d32b393f0e8452e697701bd4bbc70a78007caff56f74bea1fec77"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv6l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "3044a2ea606de8924a06c898a4941daced4cc374"
+git-tree-sha1 = "f207746eed06ea2108b988352a3fa35c87b4613e"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "e64c483ec12a3a20e5daafa1936810d3dc6564af11b6dda3cf4df5d98a595b4e"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "f273746dc94599a458eb00598370a7771db05649df8eedf90730d491a3a443f4"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv6l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9ff169b0384720285b762120a985ccd6c0d81171"
+git-tree-sha1 = "2f432a420c5224cb4ec7b0259a6bed3708021c8c"
 julia_version = "1.8.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "b2358584b32e3770f1fa65ddc357dd82abd3700a73e806210412639414615e6d"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
+    sha256 = "ca25bbff9aa6ed89246f7dc4884882e8a914925fbc94c1b4d4e5bdbf24c81a72"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv6l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6ea449fba474123358b4fdb55a09627315d42a31"
+git-tree-sha1 = "b95592fe1932c2435c4165e4987a88ea0f402cce"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "734f6b73d9fa2f9f82e51f1b1e741b774a79464519f6f2cf9886e413f9f72c64"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "d649715aaecc3ecd1ab192e3f9497605fa29ddde5758c84bfe1f9975db1a101b"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv6l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "be75d9502e34aa974fa3a9b663fe93fe608005d9"
+git-tree-sha1 = "ca60aee2ff0fa7ea69c6d0492fa698adc45b858c"
 julia_version = "1.8.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "ebb6a4fc709c1c835b2f2e6a3d122f5569197c18ee3316826a396684e90c7704"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv6l-linux-musleabihf-cxx03-julia_version+1.8.0.tar.gz"
+    sha256 = "1f012bdfbcb891c36f342f9645216c5e599238217d626e8e11f1b2becb70afa5"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv6l-linux-musleabihf-cxx03-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f05cde77e9df536fef43cc6b67cef96756b965b6"
+git-tree-sha1 = "aefd507232cb39133d2a50bc15d3393082f8ee90"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "f86ef1e7c69ef2a7cbec681576e0df1edf2ef5c82384fd5a0bb92beff7e4d080"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "db7b251c524006084472b2507282a438f6eea8e0ce09e48b96df8c17e9945d7c"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv6l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "844ff7f31f9fbf1805adb2bcac395eabddcada27"
+git-tree-sha1 = "21e10ef11f543e30014fe7c9d17e5eec9f0e67d1"
 julia_version = "1.8.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "1d9253d7bed327ce95597fb84e9979e576d4bc8f4fe0a900c9f7ed222c5b6045"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv6l-linux-musleabihf-cxx11-julia_version+1.8.0.tar.gz"
+    sha256 = "2d8fca530cd67ea88c04f2eb99157c134af369a81aca50c7116972f821c042f0"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv6l-linux-musleabihf-cxx11-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8017afaf7aa29bee16a9e5cd59b92587b5817e47"
+git-tree-sha1 = "9f04403b211c38128cf36de66aa9537552497f7b"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "97d1c0b6270cd0fe637685150baa2c29da8fd979a7bd5413716de13be097294b"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "d1b8e673046c239724211ee1081240fe4e7da12907e35eab9e0f817bf6b7c4aa"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv7l-linux-gnueabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1ab6db781c52981b418a366670fc2affeb965258"
+git-tree-sha1 = "5b67379e0febb0e8e415517be42598672daaf379"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "86783152621e7ae6186117ca39e037d1effdc620ae9e9eb1e8b043024261419a"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "53a9568ebda2fc0c31bdb156bf3c2248452018954e321ed73e957c4e82ccc53d"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv7l-linux-gnueabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "568c7d6772e4a8224d887995dcdf6f4bc1e919a7"
+git-tree-sha1 = "5a005e695bdbea9ffac741c9c0540cd680ee6fe1"
 julia_version = "1.8.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "57fa950d2f28ee8d07a9442304012c97d5b950c2f0cd7cee5de43cf11288d3d2"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
+    sha256 = "62eabef81561000d1e9364386ce0494bf90d6cda27391bcf26095162331a2431"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv7l-linux-gnueabihf-cxx03-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "9bd676e29e5e4a930eee45597f0f20a7f83d864c"
+git-tree-sha1 = "92e9146f14c0c335b154f76330ba5994184d215e"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "b1e2e81ce2a99c75804de5a24a0d2dfec80bcce275e594abb27171d5b4d20766"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "a9abc2b99a583f414872550566c400fc5b522dfe32a0f572987e9cadb84a1aff"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv7l-linux-gnueabihf-cxx11-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "adf0fb06346816268c7d8d0c3f72ce4da286778e"
+git-tree-sha1 = "e66ff04f4c2540237ac3d7f25c9e2f832f341cc1"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "1448d21ffcf292826dfcfd7b094cc17a745ff54befe906b6da340b88e7939c94"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "868d30fb82099d5455271ce55f50cf0c9009ca94fc58b2fa4c771b3c482338e8"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv7l-linux-gnueabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "29612d11b31a4615dcc4c9ef79eea6ac274f6388"
+git-tree-sha1 = "8dd1c330643b8d11f487d4f141cae38559629299"
 julia_version = "1.8.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "a100bf8d955a85583d89ffe0925534b77e86e14b972862b92a45dc2d94e5f249"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
+    sha256 = "5b997498001883f48f6aed6077d2e9ec18190180dccf1592ab3f7aefb275617c"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv7l-linux-gnueabihf-cxx11-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d0ed51adfe3623bcbade49aa439e5c5c7420f816"
+git-tree-sha1 = "980aa866f8fce12d4a2ec09a0b4d24b53aa6a678"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "7d9a80b41d80a150fdaf64584625aeae7798492500915556438879926f114ab4"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "7b230ec7fd622e4ac098ebbd27efb469497519960b4f6382472735827608de55"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv7l-linux-musleabihf-cxx03-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "f11e00d1f3a86e26c3458306d85d9e2469323f1f"
+git-tree-sha1 = "a1bbb602470245e96b3cd664d1bebdef5ecc908c"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "bb4dcd96794a742c8490772b671d735f0294c1fdc05a0a0e9183bf3346ee448d"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "9f842a5ce1a792f572c929fe7462bfb00afa362b8a303f31c5bb45db5336f451"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv7l-linux-musleabihf-cxx03-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7b84ca5c546ba4da10380acccb8bb8681b8127da"
+git-tree-sha1 = "59a59a03e97c746c3c2dcf6071c29f08a4376807"
 julia_version = "1.8.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "13d69b204fc671e1e57ddc6bfbb151221df28900e75923fd8c2182049274a9c0"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv7l-linux-musleabihf-cxx03-julia_version+1.8.0.tar.gz"
+    sha256 = "84cf2ad740815b711cd89bb06d4b01150eca4fef5c00b03417fcb8a5fa1e69d3"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv7l-linux-musleabihf-cxx03-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0e67231364d61d4322f86ecf09bfc939c6231506"
+git-tree-sha1 = "c013aa3105b24392b3834943111bdcc856422ca5"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "70fe54882eb508e3282f2f6f3ca456d50544bba82e3f829c590d19b468f99e4f"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "5c8efea0b7960884afea9be3e0cc08d2414bf84a33e6e57e70135c50a2ea2e6a"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv7l-linux-musleabihf-cxx11-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "8eaeaf8a86f2a176a52a82cd6b0439e3061991ff"
+git-tree-sha1 = "9de4b5966b0f26d144bd528bec61b82aae76686c"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "346f0612561dd82987ca0c5785d4c1f22388e10b6bd94ca050c19b9f2cfe932e"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "08924a676fb5f7ff2f07b20367b7bfbf885fbb80ba06cddcc1236897c8bb2e2e"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv7l-linux-musleabihf-cxx11-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "34a0667a68e7e103324d4aac1a7b4b34983f83b4"
+git-tree-sha1 = "0dbe598e917ec750b0e7eb17f00102aea50c2a87"
 julia_version = "1.8.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "f97df949b85ae1b5e06a70f812dab3396f5716aaefe5ea7a493b5c39f39f0203"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.armv7l-linux-musleabihf-cxx11-julia_version+1.8.0.tar.gz"
+    sha256 = "9aee576b3bced8a410f0cc934fe3fef6dde45a66864365595d5d6a529dc6a4b5"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.armv7l-linux-musleabihf-cxx11-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "8f4804cad5f1d25987c385010a9f8c36aa23e8e3"
+git-tree-sha1 = "20d61c80ea20e8b0993a4985df8c520b20d55f90"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "bffd273e5625045278dc6edef3b7c84c5aaec342a1c31f64baf413b3b598ddf9"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "b84f2e1f1a3bb46014799beab3df99dec384cd510c70bb627796485366a12801"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0d136060d86fd119d673b7fd9e2c45bd6edae71b"
+git-tree-sha1 = "69391a0698dca77c7fe5a4626f896bdf875ad5fa"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "a716b459e5b946176a4d9e0cd89cd97fda9d3b958d6c85e0290cc81c9fdf0933"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "70d8ed5c4987dc8479ff7e83a69efd1e2c8258637614b43517c095bef4356aef"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "88b509fd7d030a73e86fd8bb969e83e4f6d3f267"
+git-tree-sha1 = "3269c71a728dcd2ace9910c85fd31e93b60e14a5"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "a41f2acda4c9bc14599bcec23f09da638396de184b97ffe45e5973029075c8e9"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "725d45d42c37f733697b8e0996c00718a57d23d83f7e951454181f2ac3845e4d"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "35e3e74f9d43862d54403029e2205572a902c3a3"
+git-tree-sha1 = "17ad232cbde25b8c9230db970840de89d302174a"
 julia_version = "1.8.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "2f38b7d93fbc5c4699e9acc41cd1d416e3244bf56ec0918687ae22decd424710"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    sha256 = "9f69c3726d2420f7692974690d941f8950fc510e0fa040b86f0167ee6d8032f4"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "0c2025c867de20fb5b7f17ba63fd6e1784d642b2"
+git-tree-sha1 = "54ab1f9a833da01d7f71e6c7bdead5b97f7b68a9"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "321754a1649b02599086bdd2c0d095d34a8b9dcf08154a4609da322dad80787a"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "2e9fad8744cd9e9972da356271ad92421dbcbb7389a7a67b02dadd6fe129cbdc"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "baee8416fe7820b91cee166c0b47f090e99201b1"
+git-tree-sha1 = "7734f3a5f44ba669aba03cbac505b9d53bb6246a"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "958f2127a4ed3441e9976e2a9904c1d9734f135d305d39be1f49b3766fc0eb78"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "3358875ebff30cadb4cbb15f2178160980e6e427ec5ebb00b44e309a9cc84c54"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ecdb1fd078d8afee84928a0b457d6b5b7d1c7e40"
+git-tree-sha1 = "614c55addb1aa7561ba58ebcad445a77cfc3cd43"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "1a245f067b4b8cc5155c0222962bde71ef76d2d8cef64280964791cca446d9a8"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "61240b90f87345fa18fb2b9199dc9fdf1537171c1d3744c4209d8ed5a6a818e6"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a619bf2149b58b955e2fe1cabf452319d7c3fa79"
+git-tree-sha1 = "6f3fc1d97cf649f6831c504af8c9aad898f945b9"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "1276c8f1342e1ec1ad746697676baf0468688e433789adfd34cf7f65f613276d"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "e0119e1064947451cc61a927a0b91cf6db031e3eaa7c67ab53ceac991de6160b"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ebb52658fc7a90c6a45b1dd230cc62d7e38f5e8b"
+git-tree-sha1 = "2e2d35638999b1628a19b6670b4b1714885e3e99"
 julia_version = "1.8.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "c14d5c935f52e84fdc2cd9ee434ec8a0b7956613f54631ca3b8fb7d837ec4eb5"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    sha256 = "a40155f59ea5a435e4801e3b3e146c92f1934a4fdba6d036a715e8eaedbd3913"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0e5f3e78557812b77af4cfc428bf1d2ffe22b4a6"
+git-tree-sha1 = "33f98f9ad7458d5b353a51f7c4ead30bcd7db9e9"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "228fb6cddbcbfa9429e4885fc900f58a362178aefbb674cc79c6bc220e040b60"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "e618b833fbe6a688f1c0499b6cc4c0c88905574949d6d316a564caece3a41238"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "1bfb564673045ad909453a3eb4e4b705289dadf5"
+git-tree-sha1 = "77898fa721596c53cce921f85e610e4e2ac29112"
 julia_version = "1.10.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "8ae546cc5c3ab85f4b49866a79e4097a8730a3a77f927ebb2171a4fa858345ab"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "88703181becfe3fe1b4d92563032519a423ef37c5edcec6e6a38d371c2c95ac8"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "032178cd42fd9dd4bbd535e6a636bb0e47ea39f9"
+git-tree-sha1 = "7a5dd8fd4b86c4a055635b8815b836d156580e19"
 julia_version = "1.6.3"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "a2c1c0d8ac5a31e0f9fec805c2592ba74ad48ec9d1d1151f53ef222358d95094"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "ebe24f6f35f1789acaa4d8673bea01fb2e69a95971b68e42b7b639b80bfa6298"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ec61dcf22de70ffdcda0cc0c851da3f1daf8dba3"
+git-tree-sha1 = "730e369fc4da49e791a6119db1ccfb00cb972494"
 julia_version = "1.7.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "0d0c74f331d1c21c67cccfa59cab9b3fdb3729891f00ee46fed7ee651e88c2a8"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "5a0ec37fb6c9cf471901729859c08edb0121c2390f3c2ce9bbe4834349825e90"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "d6e01290efcb1144039cee4690726f12ddd2452d"
+git-tree-sha1 = "a816f4868979aaf38a1159b75dfe607c416088fb"
 julia_version = "1.8.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "bb33d6d3b4fb722b990acc4733f2e644b06c237e6c1df68799b7f9e3eb4580b7"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-w64-mingw32-cxx03-julia_version+1.8.0.tar.gz"
+    sha256 = "6ef1e60cfaf6fc939dcbf69e898047f919a3bb578d5423bdf035a6e11802aeda"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-w64-mingw32-cxx03-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7410e053bff13f16ff2b6340a167d408b3306024"
+git-tree-sha1 = "2c81183a9f0a3b70b388a6c8927d417da5ed8afb"
 julia_version = "1.9.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "9959351784ee9275f3e61d16a90811ead58cf7912acd366e41b9ef686f6960cb"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "443986d4386b338747d1a7749984ee5a6ba12d30bced49b1ef5dcf7e1d6fd595"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2130ce67076cdfe26b8573e858be157a1b92bf87"
+git-tree-sha1 = "02480045bf1e7d8880ac5f611ddb34f7b1bcaf85"
 julia_version = "1.10.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "920b5cf8eafeaa116ccf00ebe4f963ab8f72f2da4194bda197677b28b7c97ca6"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "41721bf224631fd21f0ac01fd81d98ff620e97409f49cc1ed9ac3a230c200c86"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0259a54dadf02c235bebaa0239670d709fb692c8"
+git-tree-sha1 = "f1d177ac718f72bdda3d0be8663fd690fed22daf"
 julia_version = "1.6.3"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "aee9cdb1a7113df7a1f813f4ce45e82f111b821ac360e55712f96aec65f2a818"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "523766395a7c0da8bd5077a5e92ea2a946e92122f06ceea332de2fc787fcf460"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "eaa645984a3fd90d4985a9a74edcef2da939ef6e"
+git-tree-sha1 = "22b585232d3c2eff66c95187b33cb3422f4d6b08"
 julia_version = "1.7.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "afd2bdf9954d37b82f73b94737c8c385170e3ff7bab73434d8ac6b1d250bc44d"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "84767e6b3e6669a07314bf03603612db1f062f6d27fa392d1fc4325c1d42287f"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "739e83939f7fd62ee8cf827bf8fd483487ab02ec"
+git-tree-sha1 = "f8bfbc390f5fb369afb5f829e1d557d163f1b956"
 julia_version = "1.8.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "ca89d38e028c4c85d0aee7774dc7e21daef6060d2ee91eedff249d39a94cce0b"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-w64-mingw32-cxx11-julia_version+1.8.0.tar.gz"
+    sha256 = "7c194c112de756a9125b461dd44ffa9162c8f8b1f3dbe34856b9effda1881bf0"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-w64-mingw32-cxx11-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "21512a75ddbdaaa43a6f56bd7886a0c43e4aeba3"
+git-tree-sha1 = "de4026f9a93d1fc3a86a4c9451a3b4f6849743a5"
 julia_version = "1.9.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "f4e51b92539b3def23260808a5903fe4a8228bdcfde63a658d9dcb6699792646"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.i686-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "4853cbb829cfa81ed9eb375235bf9bf718f891ccdb2faaed674b38a3552edf99"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.i686-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9a31de7e3a699ce8763a57d6906570df3950c4ba"
-julia_version = "1.10.0"
-libc = "glibc"
-os = "linux"
-
-    [[algoimWrapper.download]]
-    sha256 = "4ba4128637a1cc72bf283f16429140dc87873bd20eef9aa0c4da8d0aa4b7246f"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
-[[algoimWrapper]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "f422e6c743a93ef5befe43d534c9e3340ebfed0d"
-julia_version = "1.6.3"
-libc = "glibc"
-os = "linux"
-
-    [[algoimWrapper.download]]
-    sha256 = "90fbc9614c5b541ebc1f95a464acffb29c867e1d5115534a95a05e3cc85d2c8b"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
-[[algoimWrapper]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "886ae25bc60f90da7904e6b442d88f6d75af75f4"
-julia_version = "1.7.0"
-libc = "glibc"
-os = "linux"
-
-    [[algoimWrapper.download]]
-    sha256 = "f0d509bf74c78491d337278a21d60ad24cdb99ffe79eaf702cbf6daffd03c367"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
-[[algoimWrapper]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "7401b3070443ee0539295fca100c61e84934dd39"
-julia_version = "1.8.0"
-libc = "glibc"
-os = "linux"
-
-    [[algoimWrapper.download]]
-    sha256 = "6d2445f2566e141c28c7d9797717437525925078a87b4676f34b867bca5cc778"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
-[[algoimWrapper]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx03"
-git-tree-sha1 = "ff131e9b02f9ba9ed480878dd5910543acc61865"
-julia_version = "1.9.0"
-libc = "glibc"
-os = "linux"
-
-    [[algoimWrapper.download]]
-    sha256 = "6ac1520880887d576a30dcb3e6d25b5982eb9c68f3f71849216dec619df619ca"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
-[[algoimWrapper]]
-arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "7f69bf1c05e9f398a81b124ad903ed69b98b08c9"
+git-tree-sha1 = "19d0a4c12b932dd4379ea35eae094eeceec7a692"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "80705428810cd6825d8d720fb41b3d8537918f543386cb044916fa863e4c2726"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "1394ecb9fcc18b28cc8f914a33e4fc2dc382324c52338bf563a9570b279e5dbe"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.powerpc64le-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "b19d142c26697cd69516eca9f7c05a0913ac519f"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dc629e359c2caf052957641abc6630eded7668fb"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "a7bc6fd2712934f25ae2456f0e0ce9fa487f07121dacd5dd04b122a6c0bc506b"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "69da803895e1b47d9ca810b877bf0e05fdb909254165cb3b2e3e89ed418826ce"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.powerpc64le-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "2d244d230df36890572d19ca593f839fc9c85f3d"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "41489bbb4f0ad94b72111cb75b706f13233fb8e1"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "9733476dc7ce6e3c88f31e81dcaab913331b9612914b117f557ac006bbe488f2"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "b7f9e69e4ab39213c8bfaf649f63fc16ceb5a8ba72676ea9ec932ab9a5e9c475"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.powerpc64le-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "3e4784380f92ea8eec3439a8a1bee76f5cac9944"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "914368c08c3a85893bf328dacc1ac9ad30d7e2a7"
 julia_version = "1.8.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "c7c094a5083584f992ebb74affdd86e4a7047f64b19d5cca3ad47d285215cf5f"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    sha256 = "9363d192935c565ea5a62b8856d7f887dc47e80580efd92527ed3090ead03868"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.powerpc64le-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "powerpc64le"
-cxxstring_abi = "cxx11"
-git-tree-sha1 = "5b3a6c7877d5bf557991f12751b3f562c3bc304b"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f1275fa7aef300a3f042ba63e52c3e583a280702"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "8ebea3b4a3224a2bd3b124264a0e07600eef30b0b6e571f3314a1f66cf928dd4"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "079c63e75c3b12c58c703922968174085604648a748ec047d605fc90c8bce199"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.powerpc64le-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+[[algoimWrapper]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f45caa028f0b908c9e51bd3cb1da74d8d05d39b7"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[algoimWrapper.download]]
+    sha256 = "0837c858ecf36fb2586a6049a956c206e33518fc4ce1609372892aeb5027ad4b"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[algoimWrapper]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "20770577900f97498b3fc4bc24a12abf7484f763"
+julia_version = "1.6.3"
+libc = "glibc"
+os = "linux"
+
+    [[algoimWrapper.download]]
+    sha256 = "b3e0588cecba1e18c5d065b824ca07b3a24d569888d96fe773c6caeb5e45b4a0"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.powerpc64le-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+[[algoimWrapper]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "006a3fc4329a8cfe016964a564a54036ecfa9e17"
+julia_version = "1.7.0"
+libc = "glibc"
+os = "linux"
+
+    [[algoimWrapper.download]]
+    sha256 = "24e4f32289681b77c9688f1e52ed8aa029fa3c91a9b63d1a4e1b173883768110"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.powerpc64le-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+[[algoimWrapper]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ebdbc2b7a8dbc9b556e15f83e0d148ffe2e73bf7"
+julia_version = "1.8.0"
+libc = "glibc"
+os = "linux"
+
+    [[algoimWrapper.download]]
+    sha256 = "c112b5429c658075c299b2378ecdaa93db1ae6ae9dbd1b60139f0a45ea2096ce"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.powerpc64le-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+[[algoimWrapper]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8628e529e78b18671e25b7646abb3920af06670d"
+julia_version = "1.9.0"
+libc = "glibc"
+os = "linux"
+
+    [[algoimWrapper.download]]
+    sha256 = "4edf32b0fc1cd8119f30fd7c76c0263310f23ab0a645cceafdd1e4ee391e7c8f"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.powerpc64le-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "1f07fffe3589f5a973d33212a9dbc0a0aac3dbbd"
+git-tree-sha1 = "b499cb0f81b916bca5fc8052704899f5a4931a38"
 julia_version = "1.10.0"
 os = "macos"
 
     [[algoimWrapper.download]]
-    sha256 = "02cc1173c846720ed07f5a1b0b506deb6f2aa9aa55a9abcc60bf147ab1312780"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+    sha256 = "76d39155b35af914f7182fcf71d9c632c371d7f78cde4ec8e8a2dff9ebb016fd"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "b15720735bf8125ceb713f2d1de138b4ff8f8ab3"
+git-tree-sha1 = "661cd4fcf7b0024481a046503ce0d2d7cd5548ca"
 julia_version = "1.6.3"
 os = "macos"
 
     [[algoimWrapper.download]]
-    sha256 = "3a2d2aa4e01957f95004aff45ba9c0120e1e68cc6cc76c7fc642aef8a0da6167"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
+    sha256 = "42358131cace3978770b496e3bdaa011f624585df0117b5d3c5ed3be809f10c2"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-apple-darwin-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "ca1316a0f93910a717230116f74e9429b3b34e32"
+git-tree-sha1 = "577bbaa26e07ea1cae415cdc677edac29abc335a"
 julia_version = "1.7.0"
 os = "macos"
 
     [[algoimWrapper.download]]
-    sha256 = "b97b3b530fd3b6e75fe61eb1f30019cf03ac78c405e03311214e492a36902956"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
+    sha256 = "4d3e3adc5f6ace6da75a7822889db778b0ccb86caab5000c95409bf94d39bb79"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-apple-darwin-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "fabfea8be3f9fece8a5c06f54c073aa45e1fa02d"
+git-tree-sha1 = "f621877d50c09c9e1460b4b5a88c44b9e9beb77a"
 julia_version = "1.8.0"
 os = "macos"
 
     [[algoimWrapper.download]]
-    sha256 = "7ae23ee0d4375937ada3fdf5cabab92b0e9b22d754b324c7181c526090817a22"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-apple-darwin-julia_version+1.8.0.tar.gz"
+    sha256 = "517422febd09e83202759320c11a5714395f5bf57180daac66d93b80f1f734ce"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-apple-darwin-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "c1f58c53ee6843806885911cf12a8a7b5a74e996"
+git-tree-sha1 = "2c920c32ae8b2e9babcdc1c28c76f0878d47a191"
 julia_version = "1.9.0"
 os = "macos"
 
     [[algoimWrapper.download]]
-    sha256 = "df2756d3bcc5e9b7fb75bdabc5fca477e7989a812cc7937adf920a377ce75cea"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
+    sha256 = "d87501cbe0e7634824c9ac070e0b9716967f0ca32fa528b5cb271c684183ef08"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-apple-darwin-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "b321a70dc80b8fcdb0ef3eb10105f7715e89e8c2"
+git-tree-sha1 = "2338541f3928efe239da3839159d09de66d37342"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "52d28e8bf3b746dd62e19fca3c19087d7d4ff3e39aed7bfbcedd77ffae2c3a06"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "ce9eec5ff54b4214302e4890cdc225ecf0758dcfd179c7df06a1ff016ae2e2c7"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-gnu-cxx03-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6e3fae05bce434de9983958d8feb4ff512f1cd80"
+git-tree-sha1 = "cc1d9d06fcf78d057fe240dd8b5695aabdd141e5"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "9f4a420ba3783286af0f47e4f0474c9faf21243b4b91b2583c9a640bd89bf872"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "32007dd6c8d1c4e151bc2a288abfa6e27f25ff4adc550e91098ff0b9ec912f30"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-gnu-cxx03-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "ea93a0d545cfabc1f43418b607bc7d98f20ef784"
+git-tree-sha1 = "5ae50bb0473316d06b5c6a1085aa05a142c56c56"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "443cb62dc3c15d79888ea8bf7f04f984f554aa468b6d254bb6feb3a05397f659"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "c3af1574f9fe992a81811e58ceb7eead772e2f45409a0b14e7bc1277dc8a01cd"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-gnu-cxx03-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "79a7f736a0f34fca421a97c1f0cc0af40959f6d0"
+git-tree-sha1 = "f4c8f39b99a376fb4cbb9ac3a46259411d49e762"
 julia_version = "1.8.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "21eb5cd0243317c63d5fb97676e65a7468063046da65272f7b6d229adcbf1386"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
+    sha256 = "7bb42c26c3412f8d553d0a1cf44edf1f6ab2e1a3af5c733863d3944677628d40"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-gnu-cxx03-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "138d715c2f4e7f7be93b19d3b97b13d874f9e5ca"
+git-tree-sha1 = "de57c9508c75806a842aca7e27182e6938eeda9a"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "0a1f0bb24dff000065286cac535587e3db90bcecb84b94492a8b597230ce8700"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "8d127eddf8ac44de2c666d6f29e0d0efce4f7f15a100540f438a28e1cc495fdc"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-gnu-cxx03-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "16d3cb0ef7b6f2d9e31ecb1cfde7835c59d09842"
+git-tree-sha1 = "add76926bcb8c7fb022d0a041d867bd42561cd3e"
 julia_version = "1.10.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "3c08914d0f4fbb54760cc21c48865b9f90687516d962b31d9a1bdd1243ef7015"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "1e886bd4a5a3a3ae9928207f4adbf29b44ea6bcd95cbabc7325beb60bfadd100"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "fa89a242ddbaacf6a5d9385c0edf185a7eecdccb"
+git-tree-sha1 = "546e61fc37d185ac582b321cc234540cbc07f04c"
 julia_version = "1.6.3"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "3a4d8d55710126cbb38fefaf4d97f214bebf4c3c4f34130ad30efc897e368797"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "799b15bb57cd70385e8edf7c554e42d2c535d0ee38c692d4a0829d6a1fe78d54"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-gnu-cxx11-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f697c38335ec1d1180cad5b123abf903cd3b0b94"
+git-tree-sha1 = "6887cabbf966c08f8a57192a7bcaecc5d8f871b5"
 julia_version = "1.7.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "21e90c804906c54f9e7326658168b5b402dfa0a299326ef9f07f9b34389fdcad"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "e927fd7524d4e6c4839b6855a6a0258c806fc732b57ca79706cb472de992bed5"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-gnu-cxx11-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c7c5c4d3d801876269fa20d36b9cd48d8c76054f"
+git-tree-sha1 = "f4765aa11cb84dbaa3287e354fe610a3d15b356a"
 julia_version = "1.8.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "fb6865ff0e4bee0b4fafb3369caf456f04ad93b75dc3515f4e02d8241ffb1377"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
+    sha256 = "ef21daa5afd80b81edc23bc7b67ec8bb2387fa809c9f384e3720b9f1fb7c8575"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-gnu-cxx11-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "456d18b2d31df14f1f116c406d85b8c98249bf30"
+git-tree-sha1 = "1f4f72c512b46ae105c899d3e1747220d45c6f34"
 julia_version = "1.9.0"
 libc = "glibc"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "21f90f8d9ee60c78ea95f5db193bda8522e3ec7562de6cb6711b5bc92e5601e2"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "9135d3d69ba98128d9929307110eeef9c3470f287b420157689977829e40ad05"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-gnu-cxx11-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "4a3b4cc5277589efb312c4786cdf69dd36b29883"
+git-tree-sha1 = "beaa943da05a55fb7b39beb71e4253b3526fd48e"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "25c460408a10d5e5fe5d3abd97c7ca802bb8094640d44146ae157bc46e78ee54"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "fcf646dce62ce3794b57134003eb713ab8685807bfe37d14a2423cf9beaa5ce0"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-musl-cxx03-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a82848df174135d2615587a9f63b1dfb9b47bffe"
+git-tree-sha1 = "5f9834d0df4f8ca3671b58ba2216f215cf89fe9b"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "bca7aedac8aa8600ba3ee9fb9eb55924529c6e61bf29e2cfedd67b70e8f151e3"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "bed4566aeb5c00f2cdbbaded95f52cdaf417e5e89206957c0ee96fbb16806728"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-musl-cxx03-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "a59fd7ca4f3112d7a7a779f44894b464836ac158"
+git-tree-sha1 = "af6114d432f66d77f428cfa78c08f5b2b57fc265"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "b8f40d80b7ddf102afb0506e8820a681d6e29511d816f5f4d392cf945624b280"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "d365914c26eb31a141dbcdeeacae5c601dccb9e51981aecaafc7eb4c44d01b1a"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-musl-cxx03-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "350a1dd5cbf440c69ce9ddc2650a77b807a33d93"
+git-tree-sha1 = "3dfb031e4a09c25b76ebe02f5a5f12c427229a93"
 julia_version = "1.8.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "a218d61b2180f41307bc7d70fb23933af4ad6610e5335feb6d8b817be00b0062"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-musl-cxx03-julia_version+1.8.0.tar.gz"
+    sha256 = "895b52135aee6471c4c769fad372cc4e85324e941b0a648f00626ea41f18a834"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-musl-cxx03-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "6cc7da3f5658a30019becf57a96d0e3cae0a6650"
+git-tree-sha1 = "40ba9f353e903a7f39ad4c612aa8fa9060b7d6d6"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "37c848395b70a646a99c5bd1296b54705e96d5f3fc2b6ca376cdd6330358a5b2"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "4ef54f24eef2b8951d7d5f16da31140548688452f5d844422155864d96f566cc"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-musl-cxx03-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d9ae5a2c78808759aa6021fe57b4f9b3bab615fa"
+git-tree-sha1 = "328a0eb012bbccec9cd866affe5cbae816c72dda"
 julia_version = "1.10.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "b156c2b4547384a25d2287cb7436216a24d0f5c9d238d1cc0df57f117624dd85"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "1d913510f807b090fcf939fdb84a966cf05681e0f7041488b1a6e3920a6e22f0"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "1b9278a76c04849b70023e36b408ed45e133720a"
+git-tree-sha1 = "99364710d4a8f015da11211d4d6e8fa0f2512109"
 julia_version = "1.6.3"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "cde450abf7d9c58a4a40366d51b393e51676f46d2a179e424f705680f5c1cf4c"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "5143121fb7206d641ac66ace69dadc2eb1553ab836747bb51a59071084b3be9a"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-musl-cxx11-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "74d841f97bef4ca8568c5ea8b576b46d2261c60b"
+git-tree-sha1 = "29a2c427da60d1850fd97586bb46133ca68da2cf"
 julia_version = "1.7.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "f9c8f25ae10de20e6de71f5853b7e7f42ba4b3803f4b8d093ba1abc0265cb616"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "95ba2f70cc4dc77ceca256965811729b952a8bfda9571be94a0ffccfa048b455"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-musl-cxx11-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "246c62024107dd76a031e6fa6c78947fca17547b"
+git-tree-sha1 = "e51b0f3ce2f47b50e1826b32bdd4b92a5514e5e3"
 julia_version = "1.8.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "2730d512880d2b7c91972eee65341f23839938c62b24740e5142a97a49053d22"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-musl-cxx11-julia_version+1.8.0.tar.gz"
+    sha256 = "c21a505fefab323d61c871b86f8af501c8ba2c4ae81118a24f6b2da26e9cedae"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-musl-cxx11-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "88d531b7a4bd028d3890c3e8729b7d178511fd62"
+git-tree-sha1 = "29339fb87d353726d0db97b5c93bcf25b34bc88e"
 julia_version = "1.9.0"
 libc = "musl"
 os = "linux"
 
     [[algoimWrapper.download]]
-    sha256 = "92344f264e7ca609735269e03dda0a92bec765efea40619f011c641c42788d54"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "fd6cec92ca0a0804d1143cc8e0e059ac2ac4241d7ea8feeb5c0b471d6031a0fe"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-linux-musl-cxx11-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "2a6d7fc1f0eb9e601a558ef28683d84e5b1d3eb6"
+git-tree-sha1 = "1756c1a60ba6f95e5ff5edb051e26bd237569e6c"
 julia_version = "1.10.0"
 os = "freebsd"
 
     [[algoimWrapper.download]]
-    sha256 = "a6fecb23efca3ad4558a0731a1b60b8da4d091caf3e19599b3685ab489244389"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+    sha256 = "aa00ac14e95e76dac412e5a9a33133e59500345715e28d3ced756791a437f5d9"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "dcfa4b4f2405333ed1fd3efbe60d78308528c7fb"
+git-tree-sha1 = "459253e16d593a5d7d171fe2944761c94f754a87"
 julia_version = "1.6.3"
 os = "freebsd"
 
     [[algoimWrapper.download]]
-    sha256 = "f17554669145fe798a7b4754c7de10cfdc46ae539adae966b81c218489dce049"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
+    sha256 = "581fa5a6f56727aa371f351e1bb39abfc78c824e28078f2e127a6459c97e3806"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-unknown-freebsd-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "69fc3168092440e7b9817089e96b3ef83e927ed1"
+git-tree-sha1 = "b4bfb3a875fa384bd65b7219e0baf753c3a35b2c"
 julia_version = "1.7.0"
 os = "freebsd"
 
     [[algoimWrapper.download]]
-    sha256 = "56fd35ace83f02187b7c4db32588a72d234c822b047017781d479bc7e965226f"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
+    sha256 = "cd30b2678550c5dc0e0cfbf043ad908258980bece481be3daaca16e122ea0ab0"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-unknown-freebsd-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "b1f9296fb3b6f247fb2e3452329a2f73f62b937b"
+git-tree-sha1 = "95a8d706d59d9066be5edab45de235771b76a68e"
 julia_version = "1.8.0"
 os = "freebsd"
 
     [[algoimWrapper.download]]
-    sha256 = "6ba3dc6866980a6a3280492d8df13e55ad4d5b00fb6bee9c2638709d436d3535"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-unknown-freebsd-julia_version+1.8.0.tar.gz"
+    sha256 = "29aa9d0194dd652870cb1097bbf85dda292ea75d57aafd8d4f06cfd10351bb93"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-unknown-freebsd-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
-git-tree-sha1 = "9c977ea64a6bd92065424e926e1c1d3906adb914"
+git-tree-sha1 = "2712ae0420251604e3f69910ea02f00c6e2679a9"
 julia_version = "1.9.0"
 os = "freebsd"
 
     [[algoimWrapper.download]]
-    sha256 = "bd8199c08e1b9ac32719b23459080325d898422a5cbbce3fc5615d7884a5a958"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
+    sha256 = "bc9ef5a0c0bcc34e8a52a213355d27e3dd0adc37f27766ad65fa9948ec689b32"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-unknown-freebsd-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "e2a201e32ba81c0b85b7cf5c390b0f2ace7fbd9f"
+git-tree-sha1 = "abd6ad1e393980bd2f74c60228d5b84c44bf7438"
 julia_version = "1.10.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "2c33f86222c37759f0ecc7ea5b39e6f32a0b953445d1b7b65fc4a62440bcc7b8"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
+    sha256 = "d88e4ca6fe8e6a7ba6b88ff21d6d21b18be27faed5b76b35094032f72745d82f"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-w64-mingw32-cxx03-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "3d542cb7d8594fe015af19061a86c928161051f5"
+git-tree-sha1 = "4b1fe03b0d38b074750a43ae642515da5a4e5be7"
 julia_version = "1.6.3"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "28d73cf5c60ea6705915fc75d025d9e29f937b0e667df1768b1e791241f5d8b6"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
+    sha256 = "6a5b4c2379bedaad95dce7de21b027098263495b475ec7cfc543520f8907325f"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-w64-mingw32-cxx03-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "9db94c580e7125f35e5128fc0645c39debdbe4c8"
+git-tree-sha1 = "553f67baaa04a1b63280b17c272a84e19b15e67e"
 julia_version = "1.7.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "b83788070e4e947b31b8d98a17b2184615d1d540be37f9322f8a6a4f07ff5e46"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
+    sha256 = "159d139bcd84020c249213a73efef42b66dabf953ed293ebd143b303001986b4"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-w64-mingw32-cxx03-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "eda01562d36127b1061a3c68e7f00f5997c77c99"
+git-tree-sha1 = "306ff1b9234fa00f019ac16d1ce90dcd83a42250"
 julia_version = "1.8.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "73e112caaefc177c7e511927ca9bd28c0b63af3215f22c4d8cc0da42d06ae845"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-w64-mingw32-cxx03-julia_version+1.8.0.tar.gz"
+    sha256 = "e114f8399e60645810f01448e81a137103b435650660a3f81583bd4487e92bec"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-w64-mingw32-cxx03-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "7312c27d052d58ac2a2b67bc7d04a08db1a1f6f4"
+git-tree-sha1 = "1bda96d8f6a811ac83906801427ec2db0b6d4321"
 julia_version = "1.9.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "819283b460c6222ac15bf3bca6b285574dd953a265714f4a2c02f900c69ffb23"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
+    sha256 = "6ffdaa0ad3ca7e5266584e6c74616c73e1a885c3b404931d3675a61be101b98b"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-w64-mingw32-cxx03-julia_version+1.9.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ebb3003fe71871fa4a8d26ab5eb631a9e2f6d2a3"
+git-tree-sha1 = "2be58b3f28db3b34fd5d2e0655542a4cab943064"
 julia_version = "1.10.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "b3da61d9553510dcaa34ba558cb3ff42108d11f52b667650c55f1ae735d0b1b9"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "ee0cd654961016beba1b8564ea3c581df11c38f318c7166d7f4534e19953a78a"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-w64-mingw32-cxx11-julia_version+1.10.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "db2576e744920bfd7943b9d3b5ce2ab72406c7c7"
+git-tree-sha1 = "ac1f223a7db37188dd8f7c9ac5bbd7853c8baf3b"
 julia_version = "1.6.3"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "9812a8ff00f538306a2d8e9cee43c4289bd7b7c4282f718430ae7e84dca005c5"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
+    sha256 = "e7723a825709201f962b992f22cd93249c248c60c8bcedb308378e704e65aef5"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-w64-mingw32-cxx11-julia_version+1.6.3.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "632b04cbf3dec7a7579a08657754f759422dd62e"
+git-tree-sha1 = "8ac0b1918ad77c6eb77c11fc6ee22b68c7616638"
 julia_version = "1.7.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "ab0556e5550952642e44670ea0478d3855286c2f89cededa652c1eb1a65c503e"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
+    sha256 = "198a9ecab4e9b13c47d2e58079ece2023b227962c60da7177ba7c414ed5af08f"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-w64-mingw32-cxx11-julia_version+1.7.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a7890343d43352abab3c8828330664d91801085d"
+git-tree-sha1 = "fadb2b3dc2207bc555fc8a11837a7997d3bed900"
 julia_version = "1.8.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "a9f6952e390c61be407ccc0a8020b2294218980dff287c5117a38924531cc6e2"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-w64-mingw32-cxx11-julia_version+1.8.0.tar.gz"
+    sha256 = "2bd1d4f0ae2d2d10f2e6f1fd464e691ba40b4726dc56834ddbbe17ca4abda662"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-w64-mingw32-cxx11-julia_version+1.8.0.tar.gz"
 [[algoimWrapper]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "70ccb6e50cf16cb3abae72d4311fcc2677af4a01"
+git-tree-sha1 = "f87424f8f7c03510404ae7db1d859dd3edc5fdc8"
 julia_version = "1.9.0"
 os = "windows"
 
     [[algoimWrapper.download]]
-    sha256 = "c956d161d34d58b80a91cefb958cf75676db864fefcc95f60f96b15d0f9b2c7f"
-    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.1+1/algoimWrapper.v0.1.1.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
+    sha256 = "b05babe145de4e5e4c7dd5c3375fcdabb9289f1a02439a3417d6f84aec2d4dce"
+    url = "https://github.com/JuliaBinaryWrappers/algoimWrapper_jll.jl/releases/download/algoimWrapper-v0.1.2+0/algoimWrapper.v0.1.2.x86_64-w64-mingw32-cxx11-julia_version+1.9.0.tar.gz"
